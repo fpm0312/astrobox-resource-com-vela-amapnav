@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "com.vela.amapnav",
+    "restype": "quick_app",
+    "name": "手表导航",
+    "description": "把手机上的高德地图导航投到手表上。转弯方向、剩余距离、路名、预计到达时间，抬腕就能看到，骑车和走路时不用一直掏手机。需要配合手机端 App 使用（见外部链接），只装手表端会显示演示数据。",
+    "preview": [
+      "media/preview-1.png",
+      "media/preview-2.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "fpm",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmws5": {
+      "version": "0.1.0",
+      "file_name": "downloads/com.vela.amapnav.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
